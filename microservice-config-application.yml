@@ -17,7 +17,6 @@ server:
 spring:
   profiles: prod
     application:
-     name: microservice-config-prod
+      name: microservice-config-prod
 
-# 测试环境
-
+# 测试环境1
