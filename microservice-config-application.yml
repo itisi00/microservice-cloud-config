@@ -16,7 +16,7 @@ server:
   port: 4002
 spring:
   profiles: prod
-   applications:
+   applications: 
      name: microservice-config-prod
 
 # 测试环境
